@@ -86,4 +86,4 @@ The goal is to help the newly appointed Head of Sales understand business perfor
 - Total revenue exceeds R8 billion across the dataset  
 - Tuesday–Thursday drive the highest revenue  
 - February is the strongest month, while April and July have zero or very low revenue  
-- Vehicle sales are dominated by Low Margin units (4
+- Vehicle sales are dominated by Low Margin units
